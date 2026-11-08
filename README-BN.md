@@ -8,7 +8,7 @@
 3. `npm install` চালান।
 4. `.env.example` কপি করে `.env` নাম দিন। `ADMIN_EMAIL`, `ADMIN_PASSWORD`, `SESSION_SECRET` অবশ্যই নিজের শক্তিশালী মান দিয়ে বদলান।
 5. `npm start` চালান।
-6. ব্রাউজারে `http://localhost:3000` খুলুন। Admin: `http://localhost:3000/admin`।
+6. ব্রাউজারে `http://localhost:0000` খুলুন। Admin: `http://localhost:0000/admin`।
 
 প্রথমবার চালালে `data.json`-এ নমুনা পণ্য তৈরি হবে। Admin থেকে পণ্য যোগ, দাম/স্টক বদল, ডিলিট এবং অর্ডারের অবস্থা বদলানো যায়। পণ্যের ছবির জন্য HTTPS image URL ব্যবহার করুন।
 
